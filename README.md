@@ -3,3 +3,4 @@
   Designed filtering and analytics features using React.js for optimizing stock management
   Implemented Express.js endpoints for seamless CRUD operations, optimizing inventory management efficiency
   Utilized MongoDB for secure storage, implementing structured schemas for transactions and users
+  Live link:https://expensedemo-1.onrender.com
